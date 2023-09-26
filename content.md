@@ -5,6 +5,8 @@ Before we get into the HTML review, let's talk about the elements in this intera
 <div class="bg-blue-100 py-1 px-5" markdown="1">
 
 [Here is a brief video demonstration](https://share.descript.com/view/vlV7S3cEM0F). You should not rely entirely on the video to complete this lesson, but I wanted to give you a quick, visual overview of the process. As you watch the video, pause it frequently and **READ** the relevant lesson sections as you are going through the steps. There is much more detail in the text than in the video.
+
+ **You will not get full credit for the lesson if you do not "Run" every code block.**
 </div>
 
 ### Quiz questions
